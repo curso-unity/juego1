@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "proyecto-paisaje-dist.data.unityweb",
+"asmCodeUrl": "proyecto-paisaje-dist.asm.code.unityweb",
+"asmMemoryUrl": "proyecto-paisaje-dist.asm.memory.unityweb",
+"asmFrameworkUrl": "proyecto-paisaje-dist.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
